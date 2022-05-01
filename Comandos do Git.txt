@@ -1,0 +1,4 @@
+git status 					=> verifica status se tem arquivos que foram commitados e não subiram
+git add .   					=> adiciona todos os arquivos da pasta para commitar (controle de versão local)
+git commit -m "inserir a mensagem aqui"		=> adiciona os arquivos inseridos para fazer o push 
+git push origin	main				=> sobe os arquivos para o github
